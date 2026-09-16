@@ -19,7 +19,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/davi-galvani/file-organizer.git](https://github.com/davi-galvani/file-organizer.git)
+   git clone https://github.com/davi-galvani/file-organizer.git
    cd file-organizer
 Run the script:
 
