@@ -59,4 +59,4 @@ Direct Support: 15 days of technical support for any adjustments.
 Contact me on Upwork to get started!
 
 Developed by Davi Galvani
-Support Analyst @ Ikatec | Database Systems @ Fatec Bauru
+Support Analyst @ Yandeh | Database Systems @ Uninter
